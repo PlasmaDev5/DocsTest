@@ -5,7 +5,7 @@
     <build-profile instance="in">
         <variables>
             <noindex-content>true</noindex-content>
-            <algolia-id>TGW4GIW73X</algolia-id>
+            <algolia-id>IAMI7ZOM2R</algolia-id>
             <algolia-index>dev_plasma</algolia-index>
             <algolia-api-key>191ae4d2551908ea31d1396033f6481f</algolia-api-key>
             <primary-color>emerald</primary-color>
