@@ -207,6 +207,10 @@
             <toc-element topic="camera-component.md"/>
             <toc-element topic="always-visible-component.md"/>
         </toc-element>
+        <toc-element topic="Input.md">
+            <toc-element topic="input-component.md"/>
+            <toc-element topic="input-config.md"/>
+        </toc-element>
         <toc-element topic="Physics.md">
             <toc-element topic="Actors.md">
                 <toc-element topic="jolt-trigger-component.md"/>
