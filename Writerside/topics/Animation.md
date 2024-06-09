@@ -1,3 +1,0 @@
-# Animation
-
-Start typing here...

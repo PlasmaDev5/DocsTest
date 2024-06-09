@@ -6,57 +6,59 @@ As a quick start we have provided some useful topics based on different discipli
 
 ### Useful For Programmer
 
-[//]: # (- [Building Source]&#40;build/building-plasma.md&#41; )
+- [Building Source](Build.md) 
 
-[//]: # (- [Library Structure]&#40;appendix/library-structure.md&#41; )
+- [Library Structure](library-structure.md) 
 
-[//]: # (- [String Usage]&#40;appendix/string-usage.md&#41; )
+- [String Usage](string-usage.md) 
 
-[//]: # (- [String Formatting]&#40;appendix/string-formatting.md&#41; )
+- [String Formatting](string-formatting.md) 
 
-[//]: # (- [Container Usage]&#40;appendix/container-usage.md&#41; )
+- [Container Usage](container-usage.md) 
 
-[//]: # (- [Custom Code Overview]&#40;custom-code/custom-code-overview.md&#41;)
+- [Custom Code Overview](Code.md)
 
 [//]: # (- [File System]&#40;runtime/filesystem.md&#41;)
 
+[//]: # ()
 [//]: # (- [Reflection]&#40;runtime/reflection-system.md&#41;)
 
+[//]: # ()
 [//]: # (- [Resource Management]&#40;runtime/resource-management.md&#41;)
 
-[//]: # ()
+
 ### Useful For Animators
 
-[//]: # (- [Blender Export]&#40;animation/skeletal-animation/blender-export.md&#41;)
+- [Blender Export](blender-export.md)
 
-[//]: # (- [Animated Mesh Asset]&#40;animation/skeletal-animation/animated-mesh-asset.md&#41;)
+- [Animated Mesh Asset](animated-mesh-asset.md)
 
-[//]: # (- [Skeleton Asset]&#40;animation/skeletal-animation/skeleton-asset.md&#41;)
+- [Skeleton Asset](skeleton-asset.md)
 
-[//]: # (- [Skeletal Animation Overview]&#40;animation/skeletal-animation/skeletal-animation-overview.md&#41;)
+- [Skeletal Animation Overview](Skeletal-Animation.md)
 
-[//]: # (- [Animation Controller]&#40;animation/skeletal-animation/animation-controller/animation-controller-overview.md&#41;)
+- [Animation Controller](Animation-Controller.md)
 
-[//]: # (- [Property Animation]&#40;animation/property-animation/property-animation-overview.md&#41;)
+- [Property Animation](Property-Animation.md)
 
-[//]: # (- [Curves]&#40;animation/common/curves.md&#41;)
+- [Curves](curves.md)
 
-[//]: # (- [Gradients]&#40;animation/common/color-gradients.md&#41;)
+- [Gradients](color-gradients.md)
 
-[//]: # ()
+
 ### Useful For 3D Artist
 
-[//]: # (- [Mesh Overview]&#40;graphics/meshes/meshes-overview.md&#41;)
+- [Mesh Overview](Meshes.md)
 
-[//]: # (- [Texture Overview]&#40;graphics/textures-overview.md&#41;)
+- [Texture Overview](textures-overview.md)
 
-[//]: # (- [Lighting Overview]&#40;graphics/lighting/lighting-overview.md&#41;)
+- [Lighting Overview](Lighting.md)
 
-[//]: # (- [Render Pipeline]&#40;graphics/render-pipeline-overview.md&#41;)
+- [Render Pipeline](render-pipeline-overview.md)
 
-[//]: # (- [Camera Component]&#40;graphics/camera-component.md&#41;)
+- [Camera Component](camera-component.md)
 
-[//]: # (- [Occluder Component]&#40;graphics/occluder-component.md&#41;)
+- [Occluder Component](occluder-component.md)
 
 [//]: # (- [Terrain]&#40;terrain/terrain-overview.md&#41;)
 
